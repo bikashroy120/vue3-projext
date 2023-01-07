@@ -1,3 +1,6 @@
-export default {
-    bikash : ["bikash"]
+ export default {
+        searchedMeals: [],
+        mealsByLetter: [],
+        mealsByIngredient: [],
+        ingredient: {}
 }
